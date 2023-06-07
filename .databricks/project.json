@@ -1,0 +1,7 @@
+{
+  "host": "https://adb-984752964297111.11.azuredatabricks.net/",
+  "authType": "profile",
+  "profile": "azure-field-eng-east",
+  "clusterId": "0607-101829-d1pyacdc",
+  "workspacePath": "/Users/advait.godbole@databricks.com/.ide/databricks_unit_testing-7f3d14f4"
+}

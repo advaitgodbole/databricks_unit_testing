@@ -1,0 +1,16 @@
+attrs
+certifi
+iniconfig
+numpy
+packaging
+pandas
+pluggy
+py
+py4j
+pyarrow
+pyparsing
+pytest
+python-dateutil
+pytz
+six
+toml
